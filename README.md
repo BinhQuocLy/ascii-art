@@ -1,6 +1,6 @@
 # Ascii art
 
-Source image               |Ascii conversion
+Source image               |Ascii art
 :-------------------------:|:-------------------------:
 ![](img/a_man.png)         |![](img/ascii.png)
 
