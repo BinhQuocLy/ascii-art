@@ -11,7 +11,7 @@ This is an app to convert an image to ascii art
 **@, &, %, $, #, /, ?, !, +, =, ~, -, . and space**
 - Output contains:
     + A .txt file
-    + A .jpg file (in the same directory with `txt_path`)
+    + A .jpg file (resized, in the same directory with `txt_path`)
 
 ## Features:
 - OpenCV based.
