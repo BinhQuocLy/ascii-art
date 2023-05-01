@@ -8,6 +8,9 @@ Source image               |Ascii conversion
 - OpenCV based.
 - Source image is in any resolution.
 - Source image will always be load with GRAY_SCALE flag and resize into 64x64.
+- Output contains:
+    + A .txt file
+    + A .jpg file (in the same directory with `txt_path`)
 
 ## Run
 For black background (Eg: Command line):
