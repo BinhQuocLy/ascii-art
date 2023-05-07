@@ -26,7 +26,7 @@ For white background (Eg: Notepad):
 ```shell
 ascii-art -i [img_path] -o [txt_path] -r
 ```
-### Eg:
+## Examples:
 ```shell
 ascii-art -i in.jpg -o out.txt
 ```
